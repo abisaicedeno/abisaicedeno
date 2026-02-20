@@ -2,7 +2,7 @@
 <div align="center" style="background: linear-gradient(90deg,#0f2027,#203a43,#2c5364); padding: 30px; border-radius: 15px;">
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hi%20everyone,%20I'm%20Computer%20Engineer&fontColor=00ff00&fontSize=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hi%20everyone,%20I'm%20%20Engineer%20|%20Software%20Dev%&fontColor=00ff00&fontSize=35&animation=fadeIn"/>
 
 </div>
 
@@ -31,6 +31,7 @@
 
 ### 🔹 Ticket System
 > Sistema de tickets / Backend: Nestjs - Frontend: Nextjs - BD: MySQL
+> Credentials¿? user: admin, password: admin
 
 Live Demo: https://ec2-54-196-137-101.compute-1.amazonaws.com/
 
@@ -49,6 +50,9 @@ Live Demo: https://ec2-54-196-137-101.compute-1.amazonaws.com/
 <a href="https://www.fedoraproject.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40"/>
 </a>
+
+
+
 
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -116,13 +120,21 @@ Live Demo: https://ec2-54-196-137-101.compute-1.amazonaws.com/
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="nginx" width="40" height="40"/>
+</a> 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
 
+
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a> 
+
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="nginx" width="40" height="40"/>
 </a> 
 
 
