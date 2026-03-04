@@ -34,7 +34,7 @@
 > Credentials¿? user: admin, password: admin
 > user staff: user1, password starff: 1234
 
-Live Demo:  http://ec2-98-93-13-199.compute-1.amazonaws.com/
+Live Demo:  http://ec2-98-81-187-87.compute-1.amazonaws.com/
 without certificate https
 
 
