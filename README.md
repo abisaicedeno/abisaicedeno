@@ -2,7 +2,7 @@
 <div align="center" style="background: linear-gradient(90deg,#0f2027,#203a43,#2c5364); padding: 30px; border-radius: 15px;">
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hi%20everyone,%20I'm%20%20Engineer%20|%20Software%20Dev%&fontColor=00ff00&fontSize=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hi%20everyone,%20I'm%20%20Computer%20Engineer%20%&fontColor=00ff00&fontSize=35&animation=fadeIn"/>
 
 </div>
 
@@ -29,13 +29,18 @@
 
 ## Projects
 
+### CV - IA
+> In progress
+
+
+
 ### 🔹 Ticket System
 > Sistema de tickets / Backend: Nestjs - Frontend: Nextjs - DB: MySQL
 > Credentials¿? user: admin, password: admin
 > user staff: user1, password starff: 1234
 
-Live Demo:  http://ec2-98-81-187-87.compute-1.amazonaws.com/
-without certificate https
+Live Demo:  https://cedeocr.com
+Uploaded to GCP
 
 
 ---
